@@ -1,0 +1,26 @@
+029bcd72dc2ca4b31778cf4ee086038d8bd6c59ed2ed485e247aed56f909f881_boot32drv.sys
+323CANON.EXE_WORM_VOBFUS.SM01
+69beb78c8b8de1a86677e27c531c92cb5ca70807d2755b94f70a75887fbc90cf_advnetcfg.ocx
+7d5ad688d1cdb34f8ee694e60b9d47e894c879f23218c5c29a19a514030e706d_nteps32.ocx
+account-report.txt                                                                      .pif
+blanca de nieve.scr
+conficker
+F897A65B.exe
+FLASH829.EXE
+I-036F~1.VBS
+I-Worm.CodeRed.BIN
+I-Worm.CodeRed.TXT
+I-WORM~1.VBS
+loveletter.VBS
+main_menu.js
+main_menu2.js
+midgets.scr
+niimda.VBS
+sample2.exe
+SCHDPL32.exe
+strip-girl-2.0bdcom_patches.exe
+TESTDE~1.CPL
+VBS.LoveLetter.txt.vbs
+WORM_VOBFUS.SMA3
+WORM_VOBFUS.SMIS
+WORM_VOBFUS.SMM2
