@@ -1,0 +1,602 @@
+--- Similarity dengan File Malware ---
+File: .\SET A(Bank)\03641e5632673615f23b2a8325d7355c4499a40f47b6ae094606a73c56e24ad0, Similarity: 72.35%
+File: .\SET A(Bank)\0442cfabb3212644c4b894a7e4a7e84c00fd23489cc4f96490f9988e6074b6ab, Similarity: 68.92%
+File: .\SET A(Bank)\1.vir, Similarity: 77.84%
+File: .\SET A(Bank)\119.unp, Similarity: 57.00%
+File: .\SET A(Bank)\11fb52c96853e12f011b7b7894e9884e56eb5522, Similarity: 66.15%
+File: .\SET A(Bank)\129b8825eaf61dcc2321aad7b84632233fa4bbc7e24bdf123b507157353930f0, Similarity: 79.92%
+File: .\SET A(Bank)\131.exe, Similarity: 45.90%
+File: .\SET A(Bank)\18884936d002839833a537921eb7ebdb073fa8a153bfeba587457b07b74fb3b2, Similarity: 83.30%
+File: .\SET A(Bank)\1952fa94b582e9af9dca596b5e51c585a78b8b1610639e3b878bbfa365e8e908, Similarity: 79.33%
+File: .\SET A(Bank)\1b76fdbd4cd92c7349bc99291137637614f4fb9598ae29df0a39a422611b86f8, Similarity: 80.60%
+File: .\SET A(Bank)\1ee894c0b91f3b2f836288c22ebeab44798f222f17c255f557af2260b8c6a32d, Similarity: 82.35%
+File: .\SET A(Bank)\2.dll, Similarity: 1.62%
+File: .\SET A(Bank)\2.unpacked.vir, Similarity: 87.13%
+File: .\SET A(Bank)\21.exe, Similarity: 62.49%
+File: .\SET A(Bank)\2106b6f94cebb55b1d55eb4b91fa83aef051c8866c54bb75ea4fd304711c4dfc, Similarity: 63.74%
+File: .\SET A(Bank)\211xahcou.dll, Similarity: 47.82%
+File: .\SET A(Bank)\222d68c03d96d230bc3829e86be8821f32960375b70388028a705a4986b8d9c6, Similarity: 67.82%
+File: .\SET A(Bank)\240cc911820690373851423dece631049c969c1b59f99b9e888f2e890e345825, Similarity: 36.16%
+File: .\SET A(Bank)\29D6161522C7F7F21B35401907C702BDDB05ED47.bin, Similarity: 74.13%
+File: .\SET A(Bank)\2a3b92f6180367306d750e59c9b6446b, Similarity: 88.25%
+File: .\SET A(Bank)\3.vir, Similarity: 88.61%
+File: .\SET A(Bank)\30196c83a1f857d36fde160d55bd4e5b5d50fbb082bd846db295cbe0f9d35cfb, Similarity: 78.36%
+File: .\SET A(Bank)\3564ceb9251eccd82d0c060c0dca83c9812f72c5fb72b5c25443dfd8a780c734, Similarity: 84.08%
+File: .\SET A(Bank)\366affd094cc63e2c19c5d57a6866b487889dab5d1b07c084fff94262d8a390b, Similarity: 79.26%
+File: .\SET A(Bank)\37f4e9d0153221d9a236f299151c9f6911a6f78fff54c91b94ea64d1f3a8872b, Similarity: 73.48%
+File: .\SET A(Bank)\388f5bc2f088769b361dfe8a45f0d5237c4580b287612422a03babe6994339ff, Similarity: 72.35%
+File: .\SET A(Bank)\3b4497c7f8c89bf22c984854ac7603573a53b95ed147e80c0f19e549e2b65693, Similarity: 40.08%
+File: .\SET A(Bank)\3bedb4bdb17718fda1edd1a8fa4289dc61fdda598474b5648414e4565e88ecd5, Similarity: 78.33%
+File: .\SET A(Bank)\47f3c8bf3329c2ef862cf12567849555b17b930c8d7c0d571f4e112dae1453b1, Similarity: 63.71%
+File: .\SET A(Bank)\4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c.bin, Similarity: 67.88%
+File: .\SET A(Bank)\50414f60d7e24d25f9ebb68f99d67a46e8b12458474ac503b6e0d0562075a985, Similarity: 78.33%
+File: .\SET A(Bank)\516c81438ac269de2b632fb1c59f4e36c3d714e0929a969ec971430d2d63ac4e, Similarity: 63.72%
+File: .\SET A(Bank)\52cb02da0462fdd08d537b2c949e2e252f7a7a88354d596e9f5c9f1498d1c68f, Similarity: 78.44%
+File: .\SET A(Bank)\58643719af0f271b87c51665c2e8c904db70155b8c6f514d6e5f44c0828a4a53, Similarity: 43.93%
+File: .\SET A(Bank)\5d40615701c48a122e44f831e7c8643d07765629a83b15d090587f469c77693d, Similarity: 75.66%
+File: .\SET A(Bank)\5d491ea5705e90c817cf0f5211c9edbcd5291fe8bd4cc69cdb58e8d0e6b6d1fe, Similarity: 78.33%
+File: .\SET A(Bank)\5ffd4c5e1766196ac1cbd799de829812757684f4432f1b8de59054890997c30d, Similarity: 64.71%
+File: .\SET A(Bank)\60C01A897DD8D60D3FEA002ED3A4B764, Similarity: 77.96%
+File: .\SET A(Bank)\64442cceb7d618e70c62d461cfaafdb8e653b8d98ac4765a6b3d8fd1ea3bce15, Similarity: 79.33%
+File: .\SET A(Bank)\6f1c31f5944e46b063abbb6296b3a0d4c06037d4bdfd83ed05119e2505adabc5, Similarity: 84.27%
+File: .\SET A(Bank)\70ec0e2b6f9ff88b54618a5f7fbd55b383cf62f8e7c3795c25e2f613bfddf45d, Similarity: 40.41%
+File: .\SET A(Bank)\7299026b22e61b0f9765eb63e42253f7e5d6ec4657008ea60aad220bbc7e2269, Similarity: 63.71%
+File: .\SET A(Bank)\740992d40b84b10aa9640214a4a490e989ea7b869cea27dbbdef544bb33b1048, Similarity: 76.82%
+File: .\SET A(Bank)\7b8674c8f0f7c0963f2c04c35ae880e87d4c8ed836fc651e8c976197468bd98a, Similarity: 63.65%
+File: .\SET A(Bank)\7d5ad688d1cdb34f8ee694e60b9d47e894c879f23218c5c29a19a514030e706d_nteps32.ocx, Similarity: 65.21%
+File: .\SET A(Bank)\7ZipSetup.exe, Similarity: 86.97%
+File: .\SET A(Bank)\80000.dll, Similarity: 63.47%
+File: .\SET A(Bank)\86590f80b4e1608d0367a7943468304f7eb665c9195c24996281b1a958bc1512, Similarity: 88.79%
+File: .\SET A(Bank)\86bb737bd9a508be2ff9dc0dee7e7c40abea215088c61788a368948f9250fa4c, Similarity: 48.57%
+File: .\SET A(Bank)\8a0c95be8a40ae5419f7d97bb3e91b2b, Similarity: 72.89%
+File: .\SET A(Bank)\901FA02FFD43DE5B2D7C8C6B8C2F6A43_SideBar.dll_, Similarity: 56.75%
+File: .\SET A(Bank)\960ce3cc26c8313b0fe41197e2aff5533f5f3efb1ba2970190779bc9a07bea63, Similarity: 63.71%
+File: .\SET A(Bank)\97ab07c8020aead6ce0d9196e03d3917045e65e8c65e52a16ec6ef660dd96968, Similarity: 73.11%
+File: .\SET A(Bank)\9a776b895e93926e2a758c09e341accb9333edc1243d216a5e53f47c6043c852, Similarity: 84.98%
+File: .\SET A(Bank)\9c17f267f79597ee01515f5ef925375d8a19844830cc46917a3d1b5bcb0ba4c3, Similarity: 58.84%
+File: .\SET A(Bank)\9ccb4ed133be5c9c554027347ad8b722f0b4c3f14bfd947edfe75a015bf085e5, Similarity: 61.82%
+File: .\SET A(Bank)\9d4b4c39106f8e2fd036e798fc67bbd7b98284121724c0f845bca0a6d2ae3999, Similarity: 64.79%
+File: .\SET A(Bank)\a3667153a6322fb8d4cf8869c094a05e995e2954fda833fe14304837ed4fd0bd, Similarity: 51.77%
+File: .\SET A(Bank)\a5c27d1ed21b0ef4147d691ddcc451da80cb3edf.jpg, Similarity: 78.13%
+File: .\SET A(Bank)\a77c61e86bc69fdc909560bb7a0fa1dd61ee6c86afceb9ea17462a97e7114ab0, Similarity: 40.08%
+File: .\SET A(Bank)\a880d7c77491fcc6f9c88bae064f075a339e6753ef9fa9410b928565887c13b7, Similarity: 86.55%
+File: .\SET A(Bank)\a917c1cc198cf36c0f2f6c24652e5c2e94e28d963b128d54f00144d216b2d118, Similarity: 73.15%
+File: .\SET A(Bank)\ad8965e531424cb34120bf0c1b4b98d4ab769bed534d9a36583364e9572332fa, Similarity: 79.18%
+File: .\SET A(Bank)\Adobe, Acrobat PDF Writer 3.exe, Similarity: 53.36%
+File: .\SET A(Bank)\ae4be6343ba403a264c0f0e5ccff169648dc854f0a71d6509f38b018ce325042, Similarity: 30.45%
+File: .\SET A(Bank)\ae66e009e16f0fad3b70ad20801f48f2edb904fa5341a89e126a26fd3fc80f75, Similarity: 75.81%
+File: .\SET A(Bank)\aed230b6b772aeb5c25e9336086e9dd4d6081d3efc205f9f9214b51f2f8c3655, Similarity: 75.55%
+File: .\SET A(Bank)\agent.exe, Similarity: 78.08%
+File: .\SET A(Bank)\ALLIANCE.DOC, Similarity: 56.04%
+File: .\SET A(Bank)\Andr.PegasusB.apk, Similarity: 56.70%
+File: .\SET A(Bank)\b154ac015c0d1d6250032f63c749f9cf, Similarity: 66.85%
+File: .\SET A(Bank)\b2ca4093b2e0271cb7a3230118843fccc094e0160a0968994ed9f10c8702d867, Similarity: 79.24%
+File: .\SET A(Bank)\b44634d90a9ff2ed8a9d0304c11bf612.bin, Similarity: 63.28%
+File: .\SET A(Bank)\b7f36159aec7f3512e00bfa8aa189cbb97f9cc4752a635bc272c7a5ac1710e0b, Similarity: 65.08%
+File: .\SET A(Bank)\b96bd6bbf0e3f4f98b606a2ab5db4a69, Similarity: 73.35%
+File: .\SET A(Bank)\ba0a74f2227e32f4cee2e7358979547cf15fd19ea6c72144773f087621bdb4b4, Similarity: 78.67%
+File: .\SET A(Bank)\Backdoor.Win32.Tyupkin.c2.ViR, Similarity: 78.12%
+File: .\SET A(Bank)\Backdoor.Win32.Tyupkin.d.ViR, Similarity: 89.90%
+File: .\SET A(Bank)\Backdoor.Win32.Tyupkin.h.exe.ViR, Similarity: 77.97%
+File: .\SET A(Bank)\bc12d7052e6cfce8f16625ca8b88803cd4e58356eb32fe62667336d4dee708a3, Similarity: 78.36%
+File: .\SET A(Bank)\bd039bb73f297062ab65f695dd6defafd146f6f233c451e5ac967a720b41fc14, Similarity: 73.22%
+File: .\SET A(Bank)\bd8c1068561d366831e5712c2d58aecb21e2dbc2ae7c76102da6b00ea15e259e, Similarity: 63.72%
+File: .\SET A(Bank)\bed0bec3d123e7611dc3d722813eeb197a2b8048396cef4414f29f24af3a29c4, Similarity: 79.59%
+File: .\SET A(Bank)\bfc63b30624332f4fc2e510f95b69d18dd0241eb0d2fcd33ed2e81b7275ab488, Similarity: 53.73%
+File: .\SET A(Bank)\BOTBINARY.EXE, Similarity: 67.11%
+File: .\SET A(Bank)\build_4_17_2014_id29303.bin, Similarity: 88.98%
+File: .\SET A(Bank)\c0cf40b8830d666a24bdd4febdc162e95aa30ed968fa3675e26ad97b2e88e03a, Similarity: 68.92%
+File: .\SET A(Bank)\c4762489488f797b4b33382c8b1b71c94a42c846f1f28e0e118c83fe032848f0, Similarity: 77.88%
+File: .\SET A(Bank)\cfca38c408c95e45cdf797723dc5cdb0d6dadb1b8338a5fda6808ce9a04e6486, Similarity: 82.94%
+File: .\SET A(Bank)\chqpl.file, Similarity: 83.62%
+File: .\SET A(Bank)\ClientUpdate.exe (x64).bin, Similarity: 83.56%
+File: .\SET A(Bank)\ClientUpdate.exe (x86).bin, Similarity: 81.68%
+File: .\SET A(Bank)\cryptowall.bin, Similarity: 68.37%
+File: .\SET A(Bank)\D048F7AE2D244A264E58AF67B1A20DB0, Similarity: 66.76%
+File: .\SET A(Bank)\d0dd9c624bb2b33de96c29b0ccb5aa5b43ce83a54e2842f1643247811487f8d9, Similarity: 65.84%
+File: .\SET A(Bank)\d30f306d4d866a07372b94f7657a7a2b0500137fe7ef51678d0ef4249895c2c5, Similarity: 89.98%
+File: .\SET A(Bank)\d8823ee70109ce789639748933a45c723060040597d17925cb605ad8f7f85a14, Similarity: 85.82%
+File: .\SET A(Bank)\D883DC7ACC192019F220409EE2CADD64, Similarity: 59.67%
+File: .\SET A(Bank)\d8fdcdaad652c19f4f4676cd2f89ae834dbc19e2759a206044b18601875f2726, Similarity: 78.33%
+File: .\SET A(Bank)\db36ad77875bbf622d96ae8086f44924c37034dd95e9eb6d6369cc6accd2a40d, Similarity: 62.47%
+File: .\SET A(Bank)\dbb39c2f143265ad86946d1c016226b0e01614af35a2c666afa44ac43b76b276, Similarity: 84.50%
+File: .\SET A(Bank)\decrypted.ex_, Similarity: 56.13%
+File: .\SET A(Bank)\decrypted_inj_services_Win32.dll, Similarity: 57.04%
+File: .\SET A(Bank)\DELLXT.dll, Similarity: 0.97%
+File: .\SET A(Bank)\DF5A394AD60512767D375647DBB82994, Similarity: 78.14%
+File: .\SET A(Bank)\dircrypt.deobf, Similarity: 69.48%
+File: .\SET A(Bank)\Document-772976_829712.scr, Similarity: 85.14%
+File: .\SET A(Bank)\DW20.dll, Similarity: 43.98%
+File: .\SET A(Bank)\Dyre_Unpacked.file, Similarity: 65.15%
+File: .\SET A(Bank)\e1d852f2ea8436ac33bc8fe200aca4af4fb15f33ecda6441741589daa44115c5, Similarity: 51.83%
+File: .\SET A(Bank)\e2e6ed82703de21eb4c5885730ba3db42f3ddda8b94beb2ee0c3af61bc435747, Similarity: 81.43%
+File: .\SET A(Bank)\e309a7a942d390801e8fedc129c6e3c34e44aae3d1aced1d723bc531730b08f5, Similarity: 63.71%
+File: .\SET A(Bank)\e49778d20a2f9b1f8b00ddd24b6bcee81af381ed02cfe0a3c9ab3111cda5f573, Similarity: 73.67%
+File: .\SET A(Bank)\e784e95fb5b0188f0c7c82add9a3c89c5bc379eaf356a4d3876d9493a986e343, Similarity: 64.41%
+File: .\SET A(Bank)\e93d6f4ce34d4f594d7aed76cfde0fad, Similarity: 66.79%
+File: .\SET A(Bank)\ee21378abf78e31d79f9170e76d01ffb74aa65ce885937fb5bc1e71dff68627d, Similarity: 55.10%
+File: .\SET A(Bank)\EmptyApplication, Similarity: 36.33%
+File: .\SET A(Bank)\eqig unpacked.ex_, Similarity: 83.18%
+File: .\SET A(Bank)\EquationLaser_32C53DF631217D0B5F9F46D3A9246715, Similarity: 85.89%
+File: .\SET A(Bank)\EquationLaser_6480843080ADD60B825EFE0532DC727B, Similarity: 85.89%
+File: .\SET A(Bank)\EquationLaser_752AF597E6D9FD70396ACCC0B9013DBE, Similarity: 85.89%
+File: .\SET A(Bank)\EquationLaser_8E2C06B52F530C9F9B5C2C743A5BB28A, Similarity: 85.89%
+File: .\SET A(Bank)\EquationLaser_C96284363374597A3AC4B07C77E8325B, Similarity: 85.89%
+File: .\SET A(Bank)\EquationLaser_DE356F2A55B25E04742423B5EC56DE93, Similarity: 85.89%
+File: .\SET A(Bank)\F1E546FE9D51DC96EB766EC61269EDFB, Similarity: 62.73%
+File: .\SET A(Bank)\f5ca1277b7fde07880a691f7f3794a11980a408c510442fde486793ee56ad291, Similarity: 86.29%
+File: .\SET A(Bank)\f65fa71e8ffe11bb6e7c6c84c3d365f4fe729e1e9c38cb4f073d2b65058465fa, Similarity: 72.01%
+File: .\SET A(Bank)\f7b1aaae018d5287444990606fc43a0f2deb4ac0c7b2712cc28331781d43ae27, Similarity: 63.71%
+File: .\SET A(Bank)\F897A65B.exe, Similarity: 63.80%
+File: .\SET A(Bank)\Fake Intel (1).exe, Similarity: 44.62%
+File: .\SET A(Bank)\FannyWorm_002F5E401F705FE91F44263E49D6C216, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_00FAE15224F3A3C46D20F2667FB1ED89, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_02D5EB43F5FC03F7ABC89C57B82C75F8, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_0333F6533573D7A08B4DE47BD186EC65, Similarity: 99.78%
+File: .\SET A(Bank)\FannyWorm_038E4FFBDF9334DD0B96F92104C4A5C0, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_04DDB75038698F66B9C43304A2C92240, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_05187AA4D312FF06187C93D12DD5F1D0, Similarity: 99.51%
+File: .\SET A(Bank)\FannyWorm_053895AE9A145A74738BA85667AE2CD1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_07988B3B1AF58A47F7EE884E734D9A45, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_0A704348BD37EA5CCD2E0A540EB010C2, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_0C4BD72BD7119C562F81588978AC9DEF, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_0F256B5884F46A15B80B60BBA8876966, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_0FD329C0ECC34C45A87414E3DAAD5819, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_10A9CAA724AE8EDC30C09F8372241C32, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_1355C1F173E78D3C1317EE2FB5CD95F1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_13B67C888EFEAF60A9A4FB1E4E182F2D, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_17D287E868AB1DBAFCA87EB48B0F848F, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_1925B30A657EA0B5BFC62D3914F7855F, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_194686907B35B69C508AE1A82D105ACD, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_19507F6ADFAD9E754C3D26695DD61993, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_19EB57E93ED64F2BB9AAB0307ECE4291, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_1B9901D0F5F28C9275A697134D6E487A, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_1CB7AE1BC76E139C89684F7797F520A1, Similarity: 99.90%
+File: .\SET A(Bank)\FannyWorm_1D6C98E55203F0C51C0821FE52218DD8, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_21A6959A33909E3CDF27A455064D4D4D, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_27C5D028EE23A515DF4203EA6026E23E, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_2C029BE8E3B0C9448ED5E88B52852ADE, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_2C35ED272225B4E134333BEA2B657A3F, Similarity: 99.75%
+File: .\SET A(Bank)\FannyWorm_2D088E08FD1B90342CAE128770063DBE, Similarity: 99.91%
+File: .\SET A(Bank)\FannyWorm_2DA059A8BF3BC00BB809B28770044FF6, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_2EBD5BD711CEB8D6B4F6EBA38D087BC9, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_303B7527DB5B417719DAF9B0AE5B89AA, Similarity: 99.72%
+File: .\SET A(Bank)\FannyWorm_31457CB30CCAD20CDBC77B8C4B6F9B3F, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_3A57ADB8740DA3EBEC1673D21F20D0FE, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_3B496B8CD19789FABF00584475B607C7, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_3DE3419F6441A7F4D664077A43FB404B, Similarity: 99.69%
+File: .\SET A(Bank)\FannyWorm_40FEE20FE98995ACBDA82DBCDE0B674B, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_41D1E22FABD1CE4D21F5F7BE352B3A07, Similarity: 99.62%
+File: .\SET A(Bank)\FannyWorm_44BD4CF5E28D78CC66B828A57C99CA74, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_450A3EDECE8808F483203FE8988C4437, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_4902CD32C4AE98008BA24C0F40189E51, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_49CB69039308B2613664515C5FA323E1, Similarity: 99.99%
+File: .\SET A(Bank)\FannyWorm_4AD2F62CE2EB72EFF45C61699BDCB1E3, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_4E58BD45A388E458C9F8FF09EB905CC0, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_4F79981D1F7091BE6AADCC4595EF5F76, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_4FD969CEFB161CBBFE26897F097EDA71, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5118F69983A1544CAF4E3D244E195304, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_545BEE90A5F356B114CA3A4823F14990, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_54C7657B4D19C6AFAAF003A332704907, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_564950A5F4B3CA0E6ADE94C5CA5D8DE1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_56FF71E1F28E1F149E0E4CF8CE9811D1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_57B64A212B4B3982793916A18FA4F489, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5821380182C7BFAA6646DB4313449917, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_58786E35FA1D61D1BCD671987D103957, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5A5BED7FAE336B93C44B370A955182DA, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5B0F5F62EF3AE981FE48B6C29D7BEAB2, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5BEC4783C551C46B15F7C5B20F94F4B9, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5F5ABBE2E637D4F0B8AFE7F2342C2942, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_5FF0E69BF258375E7EEFCC5AC3BDCF24, Similarity: 99.41%
+File: .\SET A(Bank)\FannyWorm_66A2A7AC521BE856DEED54FD8072D0E8, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_682C987506651FCAE56C32FFA1F70170, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_75AC44F173AF6ACE7CC06E8406B03D33, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_7808586DEC24D04567582F9CBD26EAD8, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_782E5C2D319063405414D4E55D3DCFB3, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_86D89BAC8A165FCE91426BF84EB7B7FC, Similarity: 99.61%
+File: .\SET A(Bank)\FannyWorm_872E8E7C381FB805B87B88F31F77A772, Similarity: 99.61%
+File: .\SET A(Bank)\FannyWorm_8738E487218905E86BF6AD7988929ECB, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_878A3D4B91875E10F032B58D5DA3DDF1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_8AD46BB2D0BEF97548EBBED2F6EEA2E1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_8BB0C5181D8AB57B879DEA3F987FBEDF, Similarity: 99.75%
+File: .\SET A(Bank)\FannyWorm_8C7EF91A96E75C3D05EA5E54A0E9356C, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_8FE19689CC16FEA06BDFC9C39C515FA3, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_90C8A317CBA47D7E3525B69862DDEF58, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_9120C2A26E1F4DC362CA338B8E014B20, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_93B22ECC56A91F251D5E023A5C20B3A4, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_94271AE895E359B606252395DF952F5F, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_963A24B864524DFA64BA4310537CE0E1, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_98E6B678B40329DAC41D8F42652C17A2, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A2C52AD8F66A14F7979C6BAFC4978142, Similarity: 99.88%
+File: .\SET A(Bank)\FannyWorm_A498FCAC85DC2E97281781A08B1C1041, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A4E2ED5FF620A786C2F2E15A5F8A2D2F, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A5F389947F03902A5ABD742B61637363, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A68A56B4B3412E07436C7D195891E8BE, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A82D41CFC3EE376D9252DD4912E35894, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A8A973B3861C8D2F18039432B9F38335, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_A96DC17D52986BB9BA201550D5D41186, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_AAA06C8458F01BEDCAC5EC638C5C8B24, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_AB75C7BF5AD32AF82D331B5EE76F2ECA, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_AC50C31D680C763CCE26B4D979A11A5C, Similarity: 99.97%
+File: .\SET A(Bank)\FannyWorm_AE58E6C03D7339DA70D061399F6DEFF3, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_AF426F4980CE7E2F771742BEE1CC43DF, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_AF8F1BFCCB6530E41B2F19FF0DE8BAB5, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_B11DBC0C4E98B4CA224C18344CC5191D, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_B1C4ED725CB3443D16BE55EE5F00DCBD, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_B38A91B1A5D23D418C5C6D6A0B066C30, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_B5738307BAB3FBF4CF2BDD652B0AC88A, Similarity: 100.00%
+File: .\SET A(Bank)\FannyWorm_BD7A693767DE2EAE08B4C63AAA84DB43, Similarity: 100.00%
+File: .\SET A(Bank)\fd042b14ae659e420a15c3b7db25649d3b21d92c586fe8594f88c21ae6770956, Similarity: 88.36%
+File: .\SET A(Bank)\GrayFish_9B1CA66AAB784DC5F1DFE635D8F8A904, Similarity: 62.48%
+File: .\SET A(Bank)\GreenbugAPTx64.bin, Similarity: 63.67%
+File: .\SET A(Bank)\GreenBugInfostealer.bin, Similarity: 63.84%
+File: .\SET A(Bank)\HDSetup.exe.vir, Similarity: 65.12%
+File: .\SET A(Bank)\hive.bin_exe, Similarity: 62.01%
+File: .\SET A(Bank)\Hive.elf, Similarity: 82.88%
+File: .\SET A(Bank)\hive_linux_elf, Similarity: 52.49%
+File: .\SET A(Bank)\hostr.exe, Similarity: 83.92%
+File: .\SET A(Bank)\ImplantBigBang.bin, Similarity: 59.26%
+File: .\SET A(Bank)\Install_LiveManagerPlayer.exe.vir, Similarity: 38.58%
+File: .\SET A(Bank)\Ixeshe_0D32078128468047BCBB686FB30067AA.EXE_, Similarity: 55.31%
+File: .\SET A(Bank)\jigsaw, Similarity: 86.65%
+File: .\SET A(Bank)\Kampana(A)_BOOT.IMA, Similarity: 70.31%
+File: .\SET A(Bank)\linux_hive.elf, Similarity: 53.90%
+File: .\SET A(Bank)\Locky, Similarity: 87.43%
+File: .\SET A(Bank)\MacSecurity, Similarity: 74.81%
+File: .\SET A(Bank)\njRAT.exe, Similarity: 52.33%
+File: .\SET A(Bank)\Nyb_Boot.ima, Similarity: 77.40%
+File: .\SET A(Bank)\Potao_1stVersion_0C7183D761F15772B7E9C788BE601D29, Similarity: 63.22%
+File: .\SET A(Bank)\Potao_1stVersion_502F35002B1A95F1AE135BAFF6CFF836, Similarity: 55.75%
+File: .\SET A(Bank)\Potao_1stVersion_85B0E3264820008A30F17CA19332FA19, Similarity: 63.55%
+File: .\SET A(Bank)\Potao_1stVersion_A35E48909A49334A7EBB5448A78DCFF9, Similarity: 64.82%
+File: .\SET A(Bank)\Potao_1stVersion_D1658B792DD1569ABC27966083F59D44, Similarity: 69.35%
+File: .\SET A(Bank)\Potao_1stVersion_D939A05E1E3C9D7B6127D503C025DBC4, Similarity: 71.01%
+File: .\SET A(Bank)\Potao_DebugVersion_5199FCD031987834ED3121FB316F4970, Similarity: 84.52%
+File: .\SET A(Bank)\Potao_Droppersfrompostalsites_07E99B2F572B84AF5C4504C23F1653BB, Similarity: 79.83%
+File: .\SET A(Bank)\Potao_Droppersfrompostalsites_1927A80CD45F0D27B1AE034C11DDEDB0, Similarity: 79.38%
+File: .\SET A(Bank)\Potao_Droppersfrompostalsites_579AD4A596602A10B7CF4659B6B6909D, Similarity: 80.64%
+File: .\SET A(Bank)\Potao_FakeTrueCryptextracted exe_7CA6101C2AE4838FBBD7CEB0B2354E43, Similarity: 45.29%
+File: .\SET A(Bank)\Potao_FakeTrueCryptextracted exe_C1F715FF0AFC78AF81D215D485CC235C, Similarity: 40.93%
+File: .\SET A(Bank)\Potao_FakeTrueCryptextracted exe_F64704ED25F4C728AF996EEE3EE85411, Similarity: 45.30%
+File: .\SET A(Bank)\Potao_FakeTrueCryptSetup_83F3EC97A95595EBE40A75E94C98A7BD, Similarity: 30.89%
+File: .\SET A(Bank)\Potao_FakeTrueCryptSetup_BABD17701CBE876149DC07E68EC7CA4F, Similarity: 30.34%
+File: .\SET A(Bank)\Potao_FakeTrueCryptSetup_CFC8901FE6A9A8299087BFC73AE8909E, Similarity: 30.34%
+File: .\SET A(Bank)\Potao_USBSpreaders_1234BF4F0F5DEBC800D85C1BD2255671, Similarity: 76.88%
+File: .\SET A(Bank)\Potao_USBSpreaders_2646F7159E1723F089D63E08C8BFAFFB, Similarity: 83.06%
+File: .\SET A(Bank)\Potao_USBSpreaders_2BD0D2B5EE4E93717EA71445B102E38E, Similarity: 81.04%
+File: .\SET A(Bank)\Potao_USBSpreaders_39B67CC6DAE5214328022C44F28CED8B, Similarity: 83.06%
+File: .\SET A(Bank)\Potao_USBSpreaders_A2BB01B764491DD61FA3A7BA5AFC709C, Similarity: 84.14%
+File: .\SET A(Bank)\Potao_USBSpreaders_A427FF7ABB17AF6CF5FB70C49E9BF4E1, Similarity: 56.66%
+File: .\SET A(Bank)\Potao_USBSpreaders_AE552FC43F1BA8684655D8BF8C6AF869, Similarity: 84.30%
+File: .\SET A(Bank)\Potao_USBSpreaders_CA1A3618088F91B8FB2A30C9A9AA4ACA, Similarity: 76.86%
+File: .\SET A(Bank)\Potao_USBSpreaders_E685EA8B37F707F3706D7281B8F6816A, Similarity: 81.52%
+File: .\SET A(Bank)\raffle.exe, Similarity: 49.39%
+File: .\SET A(Bank)\Ransom (17.06.05) .exe, Similarity: 68.37%
+File: .\SET A(Bank)\Ransom.Xdata.exe, Similarity: 72.67%
+File: .\SET A(Bank)\Sality_627B8095B1024A0DDFDFA01BF9AFF803, Similarity: 52.73%
+File: .\SET A(Bank)\scanslam.exe, Similarity: 57.47%
+File: .\SET A(Bank)\ScriptA.txt, Similarity: 63.71%
+File: .\SET A(Bank)\shmgr.dll_AD6590E0DF575228911852B1E401D46E, Similarity: 89.53%
+File: .\SET A(Bank)\signed.exe, Similarity: 68.57%
+File: .\SET A(Bank)\soy.exe, Similarity: 65.17%
+File: .\SET A(Bank)\stabuniq_F31B797831B36A4877AA0FD173A7A4A2, Similarity: 69.14%
+File: .\SET A(Bank)\sugar2a.xls, Similarity: 68.13%
+File: .\SET A(Bank)\Supplementary Agreement 26_01_2016.zip.ViR, Similarity: 56.08%
+File: .\SET A(Bank)\TheBigBangImplant.bin, Similarity: 61.28%
+File: .\SET A(Bank)\Torpig miniloader_011C1CA6030EE091CE7C20CD3AAECFA0, Similarity: 78.94%
+File: .\SET A(Bank)\Torpig miniloader_2DACC4556FAD30027A384875C8D9D900, Similarity: 80.98%
+File: .\SET A(Bank)\unpacked.mem, Similarity: 51.19%
+File: .\SET A(Bank)\unpacked_.safe, Similarity: 57.82%
+File: .\SET A(Bank)\Vcffipzmnipbxzdl.exe, Similarity: 61.32%
+File: .\SET A(Bank)\W32.Elkern.4926.exe, Similarity: 83.42%
+File: .\SET A(Bank)\Win32.Sofacy.A, Similarity: 64.81%
+File: .\SET A(Bank)\Win32.SofacyCarberp.exe, Similarity: 85.19%
+File: .\SET A(Bank)\Win32.ValeforBeta, Similarity: 60.71%
+File: .\SET A(Bank)\Win32.Wannacry.exe, Similarity: 50.96%
+File: .\SET A(Bank)\Win32.WannaPeace.exe, Similarity: 68.77%
+File: .\SET A(Bank)\win33.exe, Similarity: 64.72%
+File: .\SET A(Bank)\ydrHrp_One.dll, Similarity: 1.62%
+File: .\SET A(Bank)\ZeroAccess_xxx-porn-movie.avi.exe_, Similarity: 90.18%
+File: .\SET A(Bank)\zerolocker_d4c62215df74753371db33a19a69fccdc4b375c893a4b7f8b30172710fbd4cfa, Similarity: 83.44%
+File: .\SET A(Bank)\{71257279-042b-371d-a1d3-fbf8d2fadffa}.exe, Similarity: 74.58%
+--- Similarity dengan File Non Malware ---
+File: .\SET A2(Bank NonMalware)\AcGenral.dll, Similarity: 63.29%
+File: .\SET A2(Bank NonMalware)\AcLayers.dll, Similarity: 72.82%
+File: .\SET A2(Bank NonMalware)\acledit.dll, Similarity: 37.77%
+File: .\SET A2(Bank NonMalware)\AssignedAccessCsp.dll, Similarity: 75.85%
+File: .\SET A2(Bank NonMalware)\authui.dll, Similarity: 79.31%
+File: .\SET A2(Bank NonMalware)\BcastDVRClient.dll, Similarity: 76.39%
+File: .\SET A2(Bank NonMalware)\bcdedit.exe, Similarity: 74.30%
+File: .\SET A2(Bank NonMalware)\bdeui.dll, Similarity: 52.92%
+File: .\SET A2(Bank NonMalware)\BFE.DLL, Similarity: 71.52%
+File: .\SET A2(Bank NonMalware)\bi.dll, Similarity: 49.69%
+File: .\SET A2(Bank NonMalware)\bidispl.dll, Similarity: 64.63%
+File: .\SET A2(Bank NonMalware)\BingASDS.dll, Similarity: 79.19%
+File: .\SET A2(Bank NonMalware)\BingFilterDS.dll, Similarity: 75.91%
+File: .\SET A2(Bank NonMalware)\BingMaps.dll, Similarity: 36.85%
+File: .\SET A2(Bank NonMalware)\BingOnlineServices.dll, Similarity: 67.63%
+File: .\SET A2(Bank NonMalware)\BioCredProv.dll, Similarity: 81.74%
+File: .\SET A2(Bank NonMalware)\bisrv.dll, Similarity: 66.03%
+File: .\SET A2(Bank NonMalware)\BitLockerCsp.dll, Similarity: 77.45%
+File: .\SET A2(Bank NonMalware)\bitsigd.dll, Similarity: 69.73%
+File: .\SET A2(Bank NonMalware)\bitsperf.dll, Similarity: 51.79%
+File: .\SET A2(Bank NonMalware)\BitsProxy.dll, Similarity: 53.87%
+File: .\SET A2(Bank NonMalware)\biwinrt.dll, Similarity: 80.24%
+File: .\SET A2(Bank NonMalware)\BlbEvents.dll, Similarity: 68.89%
+File: .\SET A2(Bank NonMalware)\blbres.dll, Similarity: 23.94%
+File: .\SET A2(Bank NonMalware)\blb_ps.dll, Similarity: 58.31%
+File: .\SET A2(Bank NonMalware)\BluetoothApis.dll, Similarity: 85.13%
+File: .\SET A2(Bank NonMalware)\BluetoothDesktopHandlers.dll, Similarity: 65.08%
+File: .\SET A2(Bank NonMalware)\bnmanager.dll, Similarity: 47.98%
+File: .\SET A2(Bank NonMalware)\BootMenuUX.dll, Similarity: 67.84%
+File: .\SET A2(Bank NonMalware)\bootstr.dll, Similarity: 26.22%
+File: .\SET A2(Bank NonMalware)\bootux.dll, Similarity: 51.56%
+File: .\SET A2(Bank NonMalware)\BOOTVID.DLL, Similarity: 47.38%
+File: .\SET A2(Bank NonMalware)\bridgeres.dll, Similarity: 23.33%
+File: .\SET A2(Bank NonMalware)\BrokerLib.dll, Similarity: 85.17%
+File: .\SET A2(Bank NonMalware)\browcli.dll, Similarity: 62.42%
+File: .\SET A2(Bank NonMalware)\browserbroker.dll, Similarity: 82.14%
+File: .\SET A2(Bank NonMalware)\BrowserSettingSync.dll, Similarity: 85.60%
+File: .\SET A2(Bank NonMalware)\browseui.dll, Similarity: 44.39%
+File: .\SET A2(Bank NonMalware)\BTAGService.dll, Similarity: 72.43%
+File: .\SET A2(Bank NonMalware)\BthAvctpSvc.dll, Similarity: 80.38%
+File: .\SET A2(Bank NonMalware)\BthAvrcp.dll, Similarity: 81.40%
+File: .\SET A2(Bank NonMalware)\BthAvrcpAppSvc.dll, Similarity: 63.72%
+File: .\SET A2(Bank NonMalware)\bthci.dll, Similarity: 71.14%
+File: .\SET A2(Bank NonMalware)\BthMtpContextHandler.dll, Similarity: 52.73%
+File: .\SET A2(Bank NonMalware)\bthpanapi.dll, Similarity: 52.41%
+File: .\SET A2(Bank NonMalware)\BthpanContextHandler.dll, Similarity: 78.83%
+File: .\SET A2(Bank NonMalware)\BthRadioMedia.dll, Similarity: 79.53%
+File: .\SET A2(Bank NonMalware)\bthserv.dll, Similarity: 87.88%
+File: .\SET A2(Bank NonMalware)\BthTelemetry.dll, Similarity: 51.20%
+File: .\SET A2(Bank NonMalware)\btpanui.dll, Similarity: 72.79%
+File: .\SET A2(Bank NonMalware)\BWContextHandler.dll, Similarity: 63.20%
+File: .\SET A2(Bank NonMalware)\cabapi.dll, Similarity: 74.84%
+File: .\SET A2(Bank NonMalware)\cabinet.dll, Similarity: 86.23%
+File: .\SET A2(Bank NonMalware)\cabview.dll, Similarity: 88.21%
+File: .\SET A2(Bank NonMalware)\CallButtons.dll, Similarity: 71.08%
+File: .\SET A2(Bank NonMalware)\CallButtons.ProxyStub.dll, Similarity: 47.36%
+File: .\SET A2(Bank NonMalware)\CallHistoryClient.dll, Similarity: 86.48%
+File: .\SET A2(Bank NonMalware)\CameraCaptureUI.dll, Similarity: 83.49%
+File: .\SET A2(Bank NonMalware)\canonurl.dll, Similarity: 56.56%
+File: .\SET A2(Bank NonMalware)\CapabilityAccessHandlers.dll, Similarity: 65.08%
+File: .\SET A2(Bank NonMalware)\CapabilityAccessManager.dll, Similarity: 83.47%
+File: .\SET A2(Bank NonMalware)\CapabilityAccessManagerClient.dll, Similarity: 80.81%
+File: .\SET A2(Bank NonMalware)\capauthz.dll, Similarity: 80.57%
+File: .\SET A2(Bank NonMalware)\capiprovider.dll, Similarity: 63.93%
+File: .\SET A2(Bank NonMalware)\capisp.dll, Similarity: 50.23%
+File: .\SET A2(Bank NonMalware)\CaptureService.dll, Similarity: 82.06%
+File: .\SET A2(Bank NonMalware)\CastingShellExt.dll, Similarity: 89.51%
+File: .\SET A2(Bank NonMalware)\CastLaunch.dll, Similarity: 74.12%
+File: .\SET A2(Bank NonMalware)\catsrv.dll, Similarity: 75.24%
+File: .\SET A2(Bank NonMalware)\catsrvps.dll, Similarity: 54.23%
+File: .\SET A2(Bank NonMalware)\catsrvut.dll, Similarity: 75.53%
+File: .\SET A2(Bank NonMalware)\CBDHSvc.dll, Similarity: 63.82%
+File: .\SET A2(Bank NonMalware)\cca.dll, Similarity: 73.63%
+File: .\SET A2(Bank NonMalware)\cdd.dll, Similarity: 83.05%
+File: .\SET A2(Bank NonMalware)\cdosys.dll, Similarity: 65.16%
+File: .\SET A2(Bank NonMalware)\cdp.dll, Similarity: 41.61%
+File: .\SET A2(Bank NonMalware)\cdprt.dll, Similarity: 54.03%
+File: .\SET A2(Bank NonMalware)\cdpsvc.dll, Similarity: 70.51%
+File: .\SET A2(Bank NonMalware)\cdpusersvc.dll, Similarity: 74.68%
+File: .\SET A2(Bank NonMalware)\CellularAPI.dll, Similarity: 67.87%
+File: .\SET A2(Bank NonMalware)\cellulardatacapabilityhandler.dll, Similarity: 58.84%
+File: .\SET A2(Bank NonMalware)\cemapi.dll, Similarity: 86.30%
+File: .\SET A2(Bank NonMalware)\certca.dll, Similarity: 62.73%
+File: .\SET A2(Bank NonMalware)\certcli.dll, Similarity: 78.30%
+File: .\SET A2(Bank NonMalware)\certCredProvider.dll, Similarity: 51.71%
+File: .\SET A2(Bank NonMalware)\certenc.dll, Similarity: 64.46%
+File: .\SET A2(Bank NonMalware)\CertEnroll.dll, Similarity: 48.83%
+File: .\SET A2(Bank NonMalware)\CertEnrollUI.dll, Similarity: 73.07%
+File: .\SET A2(Bank NonMalware)\certmgr.dll, Similarity: 54.51%
+File: .\SET A2(Bank NonMalware)\CertPKICmdlet.dll, Similarity: 64.51%
+File: .\SET A2(Bank NonMalware)\CertPolEng.dll, Similarity: 79.60%
+File: .\SET A2(Bank NonMalware)\certprop.dll, Similarity: 88.03%
+File: .\SET A2(Bank NonMalware)\cewmdm.dll, Similarity: 83.10%
+File: .\SET A2(Bank NonMalware)\cfgbkend.dll, Similarity: 69.17%
+File: .\SET A2(Bank NonMalware)\cfgmgr32.dll, Similarity: 82.04%
+File: .\SET A2(Bank NonMalware)\CfgSPCellular.dll, Similarity: 84.10%
+File: .\SET A2(Bank NonMalware)\CfgSPPolicy.dll, Similarity: 83.82%
+File: .\SET A2(Bank NonMalware)\cflapi.dll, Similarity: 75.74%
+File: .\SET A2(Bank NonMalware)\cfmifs.dll, Similarity: 54.33%
+File: .\SET A2(Bank NonMalware)\cfmifsproxy.dll, Similarity: 45.61%
+File: .\SET A2(Bank NonMalware)\Chakra.dll, Similarity: 37.78%
+File: .\SET A2(Bank NonMalware)\Chakradiag.dll, Similarity: 86.32%
+File: .\SET A2(Bank NonMalware)\Chakrathunk.dll, Similarity: 84.75%
+File: .\SET A2(Bank NonMalware)\ChtBopomofoDS.dll, Similarity: 76.69%
+File: .\SET A2(Bank NonMalware)\ChtCangjieDS.dll, Similarity: 76.37%
+File: .\SET A2(Bank NonMalware)\ChxHAPDS.dll, Similarity: 74.42%
+File: .\SET A2(Bank NonMalware)\cloudAP.dll, Similarity: 73.19%
+File: .\SET A2(Bank NonMalware)\coml2.dll, Similarity: 72.22%
+File: .\SET A2(Bank NonMalware)\C_G18030.DLL, Similarity: 74.75%
+File: .\SET A2(Bank NonMalware)\c_GSM7.DLL, Similarity: 47.85%
+File: .\SET A2(Bank NonMalware)\C_IS2022.DLL, Similarity: 48.23%
+File: .\SET A2(Bank NonMalware)\C_ISCII.DLL, Similarity: 42.81%
+File: .\SET A2(Bank NonMalware)\das.dll, Similarity: 74.96%
+File: .\SET A2(Bank NonMalware)\DDDS.dll, Similarity: 74.72%
+File: .\SET A2(Bank NonMalware)\defragsvc.dll, Similarity: 75.60%
+File: .\SET A2(Bank NonMalware)\DictationManager.dll, Similarity: 76.65%
+File: .\SET A2(Bank NonMalware)\dmdlgs.dll, Similarity: 70.13%
+File: .\SET A2(Bank NonMalware)\DscCore.dll, Similarity: 79.83%
+File: .\SET A2(Bank NonMalware)\DXP.dll, Similarity: 65.43%
+File: .\SET A2(Bank NonMalware)\dxtmsft.dll, Similarity: 76.68%
+File: .\SET A2(Bank NonMalware)\DynamicMedium.bin, Similarity: 63.28%
+File: .\SET A2(Bank NonMalware)\EnterpriseAppMgmtSvc.dll, Similarity: 76.08%
+File: .\SET A2(Bank NonMalware)\es.dll, Similarity: 76.16%
+File: .\SET A2(Bank NonMalware)\FWPUCLNT.DLL, Similarity: 78.40%
+File: .\SET A2(Bank NonMalware)\FXSSVC.exe, Similarity: 69.64%
+File: .\SET A2(Bank NonMalware)\FXSUNATD.exe, Similarity: 48.68%
+File: .\SET A2(Bank NonMalware)\GameBarPresenceWriter.exe, Similarity: 83.08%
+File: .\SET A2(Bank NonMalware)\GamePanel.exe, Similarity: 61.48%
+File: .\SET A2(Bank NonMalware)\GenValObj.exe, Similarity: 71.09%
+File: .\SET A2(Bank NonMalware)\Geolocation.dll, Similarity: 75.23%
+File: .\SET A2(Bank NonMalware)\getmac.exe, Similarity: 70.67%
+File: .\SET A2(Bank NonMalware)\glmf32.dll, Similarity: 73.35%
+File: .\SET A2(Bank NonMalware)\gpresult.exe, Similarity: 86.11%
+File: .\SET A2(Bank NonMalware)\gpscript.exe, Similarity: 55.50%
+File: .\SET A2(Bank NonMalware)\gpupdate.exe, Similarity: 50.12%
+File: .\SET A2(Bank NonMalware)\grpconv.exe, Similarity: 57.93%
+File: .\SET A2(Bank NonMalware)\hdwwiz.exe, Similarity: 61.22%
+File: .\SET A2(Bank NonMalware)\help.exe, Similarity: 42.16%
+File: .\SET A2(Bank NonMalware)\HOSTNAME.EXE, Similarity: 44.72%
+File: .\SET A2(Bank NonMalware)\HrtfApo.dll, Similarity: 73.14%
+File: .\SET A2(Bank NonMalware)\hvax64.exe, Similarity: 58.62%
+File: .\SET A2(Bank NonMalware)\hvix64.exe, Similarity: 55.54%
+File: .\SET A2(Bank NonMalware)\hvsievaluator.exe, Similarity: 85.74%
+File: .\SET A2(Bank NonMalware)\iassdo.dll, Similarity: 77.37%
+File: .\SET A2(Bank NonMalware)\icacls.exe, Similarity: 55.60%
+File: .\SET A2(Bank NonMalware)\IcsEntitlementHost.exe, Similarity: 53.90%
+File: .\SET A2(Bank NonMalware)\icsunattend.exe, Similarity: 48.27%
+File: .\SET A2(Bank NonMalware)\ie4uinit.exe, Similarity: 84.62%
+File: .\SET A2(Bank NonMalware)\ie4ushowIE.exe, Similarity: 66.21%
+File: .\SET A2(Bank NonMalware)\ieUnatt.exe, Similarity: 80.69%
+File: .\SET A2(Bank NonMalware)\iexpress.exe, Similarity: 88.44%
+File: .\SET A2(Bank NonMalware)\immersivetpmvscmgrsvr.exe, Similarity: 83.47%
+File: .\SET A2(Bank NonMalware)\InfDefaultInstall.exe, Similarity: 44.49%
+File: .\SET A2(Bank NonMalware)\InputSwitch.dll, Similarity: 76.91%
+File: .\SET A2(Bank NonMalware)\intl.cpl, Similarity: 60.13%
+File: .\SET A2(Bank NonMalware)\iotstartup.exe, Similarity: 84.57%
+File: .\SET A2(Bank NonMalware)\ipconfig.exe, Similarity: 51.69%
+File: .\SET A2(Bank NonMalware)\ipsmsnap.dll, Similarity: 78.90%
+File: .\SET A2(Bank NonMalware)\irftp.exe, Similarity: 82.53%
+File: .\SET A2(Bank NonMalware)\iscsicli.exe, Similarity: 86.47%
+File: .\SET A2(Bank NonMalware)\iscsicpl.exe, Similarity: 81.76%
+File: .\SET A2(Bank NonMalware)\isoburn.exe, Similarity: 81.94%
+File: .\SET A2(Bank NonMalware)\klist.exe, Similarity: 53.99%
+File: .\SET A2(Bank NonMalware)\ksetup.exe, Similarity: 54.97%
+File: .\SET A2(Bank NonMalware)\ktmutil.exe, Similarity: 48.30%
+File: .\SET A2(Bank NonMalware)\label.exe, Similarity: 48.44%
+File: .\SET A2(Bank NonMalware)\LanguageComponentsInstallerComHandler.exe, Similarity: 59.68%
+File: .\SET A2(Bank NonMalware)\LaunchTM.exe, Similarity: 75.47%
+File: .\SET A2(Bank NonMalware)\LaunchWinApp.exe, Similarity: 58.22%
+File: .\SET A2(Bank NonMalware)\LegacyNetUXHost.exe, Similarity: 85.78%
+File: .\SET A2(Bank NonMalware)\LicenseManagerShellext.exe, Similarity: 57.80%
+File: .\SET A2(Bank NonMalware)\licensingdiag.exe, Similarity: 84.12%
+File: .\SET A2(Bank NonMalware)\LicensingUI.exe, Similarity: 88.83%
+File: .\SET A2(Bank NonMalware)\localsec.dll, Similarity: 65.16%
+File: .\SET A2(Bank NonMalware)\LocationNotificationWindows.exe, Similarity: 65.62%
+File: .\SET A2(Bank NonMalware)\Locator.exe, Similarity: 40.63%
+File: .\SET A2(Bank NonMalware)\LockAppHost.exe, Similarity: 75.88%
+File: .\SET A2(Bank NonMalware)\LockScreenContentServer.exe, Similarity: 55.62%
+File: .\SET A2(Bank NonMalware)\lodctr.exe, Similarity: 59.78%
+File: .\SET A2(Bank NonMalware)\logagent.exe, Similarity: 80.71%
+File: .\SET A2(Bank NonMalware)\logman.exe, Similarity: 73.58%
+File: .\SET A2(Bank NonMalware)\logoff.exe, Similarity: 51.43%
+File: .\SET A2(Bank NonMalware)\LogonUI.exe, Similarity: 44.77%
+File: .\SET A2(Bank NonMalware)\lpkinstall.exe, Similarity: 66.58%
+File: .\SET A2(Bank NonMalware)\lpksetup.exe, Similarity: 64.42%
+File: .\SET A2(Bank NonMalware)\lpremove.exe, Similarity: 62.73%
+File: .\SET A2(Bank NonMalware)\LsaIso.exe, Similarity: 80.65%
+File: .\SET A2(Bank NonMalware)\lsass.exe, Similarity: 61.10%
+File: .\SET A2(Bank NonMalware)\Magnify.exe, Similarity: 59.23%
+File: .\SET A2(Bank NonMalware)\makecab.exe, Similarity: 70.79%
+File: .\SET A2(Bank NonMalware)\manage-bde.exe, Similarity: 79.80%
+File: .\SET A2(Bank NonMalware)\mavinject.exe, Similarity: 86.94%
+File: .\SET A2(Bank NonMalware)\MbaeParserTask.exe, Similarity: 79.90%
+File: .\SET A2(Bank NonMalware)\mblctr.exe, Similarity: 62.84%
+File: .\SET A2(Bank NonMalware)\MBMediaManager.dll, Similarity: 76.56%
+File: .\SET A2(Bank NonMalware)\MBR2GPT.EXE, Similarity: 64.07%
+File: .\SET A2(Bank NonMalware)\mcbuilder.exe, Similarity: 73.02%
+File: .\SET A2(Bank NonMalware)\MDEServer.exe, Similarity: 73.78%
+File: .\SET A2(Bank NonMalware)\MDMAgent.exe, Similarity: 80.46%
+File: .\SET A2(Bank NonMalware)\MDMAppInstaller.exe, Similarity: 83.39%
+File: .\SET A2(Bank NonMalware)\MdmDiagnosticsTool.exe, Similarity: 60.27%
+File: .\SET A2(Bank NonMalware)\MdRes.exe, Similarity: 64.53%
+File: .\SET A2(Bank NonMalware)\MdSched.exe, Similarity: 68.10%
+File: .\SET A2(Bank NonMalware)\mf.dll, Similarity: 69.10%
+File: .\SET A2(Bank NonMalware)\mfpmp.exe, Similarity: 58.29%
+File: .\SET A2(Bank NonMalware)\mftranscode.dll, Similarity: 71.70%
+File: .\SET A2(Bank NonMalware)\MFWMAAEC.DLL, Similarity: 69.25%
+File: .\SET A2(Bank NonMalware)\Microsoft.Bluetooth.UserService.dll, Similarity: 75.87%
+File: .\SET A2(Bank NonMalware)\Microsoft.Uev.CscUnpinTool.exe, Similarity: 79.71%
+File: .\SET A2(Bank NonMalware)\Microsoft.Uev.SyncController.exe, Similarity: 68.03%
+File: .\SET A2(Bank NonMalware)\MicrosoftAccountWAMExtension.dll, Similarity: 78.56%
+File: .\SET A2(Bank NonMalware)\MicrosoftEdgeBCHost.exe, Similarity: 77.87%
+File: .\SET A2(Bank NonMalware)\MicrosoftEdgeCP.exe, Similarity: 77.87%
+File: .\SET A2(Bank NonMalware)\MicrosoftEdgeDevTools.exe, Similarity: 77.87%
+File: .\SET A2(Bank NonMalware)\MicrosoftEdgeSH.exe, Similarity: 62.00%
+File: .\SET A2(Bank NonMalware)\mmc.exe, Similarity: 55.34%
+File: .\SET A2(Bank NonMalware)\mmgaserver.exe, Similarity: 58.94%
+File: .\SET A2(Bank NonMalware)\mobsync.exe, Similarity: 73.07%
+File: .\SET A2(Bank NonMalware)\mpnotify.exe, Similarity: 46.76%
+File: .\SET A2(Bank NonMalware)\mprdim.dll, Similarity: 79.55%
+File: .\SET A2(Bank NonMalware)\MpSigStub.exe, Similarity: 62.27%
+File: .\SET A2(Bank NonMalware)\mpunits.dll, Similarity: 79.61%
+File: .\SET A2(Bank NonMalware)\MRINFO.EXE, Similarity: 46.75%
+File: .\SET A2(Bank NonMalware)\MSchedExe.exe, Similarity: 65.99%
+File: .\SET A2(Bank NonMalware)\msconfig.exe, Similarity: 88.19%
+File: .\SET A2(Bank NonMalware)\msdt.exe, Similarity: 56.05%
+File: .\SET A2(Bank NonMalware)\msdtc.exe, Similarity: 83.90%
+File: .\SET A2(Bank NonMalware)\msfeedssync.exe, Similarity: 46.50%
+File: .\SET A2(Bank NonMalware)\msg.exe, Similarity: 51.53%
+File: .\SET A2(Bank NonMalware)\mshta.exe, Similarity: 43.70%
+File: .\SET A2(Bank NonMalware)\msiexec.exe, Similarity: 63.43%
+File: .\SET A2(Bank NonMalware)\msinfo32.exe, Similarity: 61.78%
+File: .\SET A2(Bank NonMalware)\mspaint.exe, Similarity: 33.24%
+File: .\SET A2(Bank NonMalware)\msra.exe, Similarity: 76.25%
+File: .\SET A2(Bank NonMalware)\MsSpellCheckingHost.exe, Similarity: 71.58%
+File: .\SET A2(Bank NonMalware)\mstsc.exe, Similarity: 56.59%
+File: .\SET A2(Bank NonMalware)\msutb.dll, Similarity: 76.29%
+File: .\SET A2(Bank NonMalware)\msv1_0.dll, Similarity: 74.37%
+File: .\SET A2(Bank NonMalware)\mtstocom.exe, Similarity: 84.66%
+File: .\SET A2(Bank NonMalware)\MuiUnattend.exe, Similarity: 78.47%
+File: .\SET A2(Bank NonMalware)\MultiDigiMon.exe, Similarity: 56.91%
+File: .\SET A2(Bank NonMalware)\MusNotification.exe, Similarity: 70.43%
+File: .\SET A2(Bank NonMalware)\netcorehc.dll, Similarity: 77.16%
+File: .\SET A2(Bank NonMalware)\NetSetupShim.dll, Similarity: 78.29%
+File: .\SET A2(Bank NonMalware)\NgcCtnr.dll, Similarity: 76.86%
+File: .\SET A2(Bank NonMalware)\NgcCtnrGidsHandler.dll, Similarity: 75.98%
+File: .\SET A2(Bank NonMalware)\NgcIso.exe, Similarity: 76.61%
+File: .\SET A2(Bank NonMalware)\OneCoreCommonProxyStub.dll, Similarity: 56.64%
+File: .\SET A2(Bank NonMalware)\PhotoMetadataHandler.dll, Similarity: 63.15%
+File: .\SET A2(Bank NonMalware)\PktMon.exe, Similarity: 76.87%
+File: .\SET A2(Bank NonMalware)\powercpl.dll, Similarity: 75.84%
+File: .\SET A2(Bank NonMalware)\prnfldr.dll, Similarity: 72.89%
+File: .\SET A2(Bank NonMalware)\profsvc.dll, Similarity: 79.39%
+File: .\SET A2(Bank NonMalware)\provsvc.dll, Similarity: 75.24%
+File: .\SET A2(Bank NonMalware)\puiobj.dll, Similarity: 77.29%
+File: .\SET A2(Bank NonMalware)\rasplap.dll, Similarity: 71.20%
+File: .\SET A2(Bank NonMalware)\rdpshell.exe, Similarity: 72.12%
+File: .\SET A2(Bank NonMalware)\ResourceMapper.dll, Similarity: 75.50%
+File: .\SET A2(Bank NonMalware)\RMActivate_ssp.exe, Similarity: 70.66%
+File: .\SET A2(Bank NonMalware)\RMActivate_ssp_isv.exe, Similarity: 70.39%
+File: .\SET A2(Bank NonMalware)\RTMediaFrame.dll, Similarity: 76.59%
+File: .\SET A2(Bank NonMalware)\SessEnv.dll, Similarity: 74.69%
+File: .\SET A2(Bank NonMalware)\SettingsHandlers_Display.dll, Similarity: 77.83%
+File: .\SET A2(Bank NonMalware)\SettingsHandlers_PCDisplay.dll, Similarity: 76.55%
+File: .\SET A2(Bank NonMalware)\SettingSync.dll, Similarity: 76.94%
+File: .\SET A2(Bank NonMalware)\spwizeng.dll, Similarity: 74.89%
+File: .\SET A2(Bank NonMalware)\srcore.dll, Similarity: 75.61%
+File: .\SET A2(Bank NonMalware)\sysmon.ocx, Similarity: 73.83%
+File: .\SET A2(Bank NonMalware)\SystemSettings.UserAccountsHandlers.dll, Similarity: 76.78%
+File: .\SET A2(Bank NonMalware)\SystemSettingsAdminFlows.exe, Similarity: 77.01%
+File: .\SET A2(Bank NonMalware)\taskcomp.dll, Similarity: 83.50%
+File: .\SET A2(Bank NonMalware)\timedate.cpl, Similarity: 54.21%
+File: .\SET A2(Bank NonMalware)\TransportDSA.dll, Similarity: 75.60%
+File: .\SET A2(Bank NonMalware)\ucrtbase_enclave.dll, Similarity: 71.25%
+File: .\SET A2(Bank NonMalware)\upnphost.dll, Similarity: 77.66%
+File: .\SET A2(Bank NonMalware)\VBoxOGL.dll, Similarity: 70.61%
+File: .\SET A2(Bank NonMalware)\wcncsvc.dll, Similarity: 77.34%
+File: .\SET A2(Bank NonMalware)\WerFault.exe, Similarity: 70.68%
+File: .\SET A2(Bank NonMalware)\werui.dll, Similarity: 71.93%
+File: .\SET A2(Bank NonMalware)\wiashext.dll, Similarity: 67.25%
+File: .\SET A2(Bank NonMalware)\Windows.ApplicationModel.LockScreen.dll, Similarity: 76.59%
+File: .\SET A2(Bank NonMalware)\Windows.Cortana.Desktop.dll, Similarity: 76.00%
+File: .\SET A2(Bank NonMalware)\Windows.Data.Activities.dll, Similarity: 74.93%
+File: .\SET A2(Bank NonMalware)\Windows.Devices.Enumeration.dll, Similarity: 70.76%
+File: .\SET A2(Bank NonMalware)\Windows.Devices.Picker.dll, Similarity: 78.57%
+File: .\SET A2(Bank NonMalware)\Windows.Devices.WiFiDirect.dll, Similarity: 78.14%
+File: .\SET A2(Bank NonMalware)\Windows.Graphics.dll, Similarity: 74.89%
+File: .\SET A2(Bank NonMalware)\Windows.Internal.PredictionUnit.dll, Similarity: 76.14%
+File: .\SET A2(Bank NonMalware)\Windows.Media.MediaControl.dll, Similarity: 74.80%
+File: .\SET A2(Bank NonMalware)\Windows.Networking.BackgroundTransfer.ContentPrefetchTask.dll, Similarity: 77.18%
+File: .\SET A2(Bank NonMalware)\Windows.UI.BlockedShutdown.dll, Similarity: 78.45%
+File: .\SET A2(Bank NonMalware)\Windows.UI.Xaml.Resources.rs2.dll, Similarity: 70.21%
+File: .\SET A2(Bank NonMalware)\winipcfile.dll, Similarity: 78.45%
+File: .\SET A2(Bank NonMalware)\wlangpui.dll, Similarity: 78.92%
+File: .\SET A2(Bank NonMalware)\wlansec.dll, Similarity: 72.66%
+File: .\SET A2(Bank NonMalware)\wow64win.dll, Similarity: 73.72%
+File: .\SET A2(Bank NonMalware)\WpAXHolder.dll, Similarity: 78.85%
+File: .\SET A2(Bank NonMalware)\wuuhext.dll, Similarity: 80.35%
+File: .\SET A2(Bank NonMalware)\wwanconn.dll, Similarity: 79.28%
+File: .\SET A2(Bank NonMalware)\XpsGdiConverter.dll, Similarity: 76.51%
